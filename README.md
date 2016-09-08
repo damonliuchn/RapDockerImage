@@ -23,6 +23,17 @@ or docker start yourcontainer
 
 http://ip or domain name:your host port
 
+4、Account
+
+- RAP:   
+Account:meng_liush  
+Password:123456
+
+- Mysql:   
+Account:root  
+Password:admin!
+
+
 Contact me
 --------
 
