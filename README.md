@@ -8,7 +8,7 @@ Usage
 
 1、Download
 
-https://yunpan.cn/cMT5JqTxunKgh （提取码：84e6）
+https://pan.baidu.com/s/1kVhmwwJ
 
 2、Docker load
 ```groovy
