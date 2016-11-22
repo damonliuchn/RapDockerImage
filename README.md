@@ -25,6 +25,7 @@ Password:123456
 Account:root  
 Password:admin!
 
+base on Ubuntu 16.04.1 LTS
 
 Contact me
 --------
