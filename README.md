@@ -6,24 +6,16 @@ RAP Version：0.14.1
 Usage
 --------
 
-1、Download
-
-https://pan.baidu.com/s/1kVhmwwJ
-
-2、Docker load
+1、Docker load
 ```groovy
-docker load < /xxxxx/rap0.14.1.tar
-
-docker run -i -t -p yourhostport:8080 rap:latest
-
-or docker start yourcontainer
-
+docker pull masonliu/rap:0.14.1
+docker run -i -t -p yourhostport:8080 masonliu/rap:0.14.1
 ```
-3、Browse 
+2、Browse 
 
 http://ip or domain name:your host port
 
-4、Account
+3、Account
 
 - RAP:   
 Account:meng_liush  
