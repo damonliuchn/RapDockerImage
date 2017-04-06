@@ -27,6 +27,11 @@ Password:admin!
 
 base on Ubuntu 16.04.1 LTS
 
+4、mock url
+http://xx:xx/mockjs/{project_id}/{path}
+or
+http://xx:xx/mockjsdata/{project_id}/{path}
+
 Contact me
 --------
 
